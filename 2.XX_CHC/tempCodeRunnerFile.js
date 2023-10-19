@@ -1,0 +1,2 @@
+
+Array.isArray("ishitesh")
